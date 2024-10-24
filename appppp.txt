@@ -1,0 +1,6 @@
+pyinstaller --clean --onefile apprun.py
+
+pyinstaller --clean apprun.spec
+
+
+python v 3.12.5

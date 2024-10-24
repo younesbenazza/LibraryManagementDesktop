@@ -1,0 +1,6 @@
+# Ignore environment folder
+env/
+
+dist/
+
+build/apprun
